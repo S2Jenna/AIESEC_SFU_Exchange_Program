@@ -1,0 +1,130 @@
+Backgrounds,Signed up,Applied,Accepted,Approved,Realized,Finished,Completed,Gender,GPA,Funding,Campus
+Economics,183,997,119,51,42,0,1,Female,3.75,No,UBC
+Business administration,225,1228,119,48,35,0,1,Female,3.76,No,UBC
+Arts,156,530,99,46,37,0,2,Female,1.31,No,UBC
+Psychology,148,621,82,4,33,0,2,Male,0.39,No,UBC
+Biology,106,307,61,31,27,0,1,Male,3.8,Yes,UBC
+Mathematics,100,635,66,26,21,0,0,Female,3.11,No,UBC
+Sociology,65,302,52,25,22,0,3,Male,0.4,No,UBC
+Accounting,93,556,59,23,18,0,0,Male,3.87,No,UBC
+Other,93,301,47,22,21,0,2,Female,3.36,Yes,UBC
+Marketing,132,781,67,21,18,0,0,Male,1.08,Yes,UBC
+Finance,83,520,48,19,13,0,2,Female,1.25,No,UBC
+Political science,72,276,48,17,16,0,1,Male,1.8,No,UBC
+Chemistry,88,260,37,17,13,0,0,Male,1.17,Yes,UBC
+International relations,48,183,45,13,9,0,0,Male,2.53,No,UBC
+Literature,48,124,24,13,11,0,0,Male,1.02,No,UBC
+Physics,53,175,34,13,9,0,2,Male,3.39,No,UBC
+Languages,79,453,42,11,8,0,0,Female,0.35,No,UBC
+Computer sciences,45,133,18,10,9,0,0,Female,2.64,Yes,UBC
+Geography,26,164,16,10,10,0,2,Male,4.3,No,UBC
+Linguistics,25,119,23,10,8,0,1,Female,1.09,No,UBC
+Philosophy,63,231,33,9,8,0,1,Male,4.12,Yes,UBC
+Health Science,42,115,19,8,6,0,1,Female,2.05,No,UBC
+History,22,100,13,7,6,0,0,Female,0.71,No,UBC
+Education,28,287,15,7,5,0,0,Female,3.05,No,UBC
+Earth Sciences,21,141,8,6,4,0,0,Male,0.25,No,UBC
+Human Resources,29,54,16,6,3,0,1,Male,3.53,No,UBC
+Communication & journalism,19,43,15,6,6,0,1,Female,2.12,No,UBC
+Mechanical engineering,19,88,9,6,5,0,0,Female,3.4,No,UBC
+Biomedical Science,10,104,13,4,3,0,2,Female,1.72,No,UBC
+Media Arts,17,74,9,3,3,0,1,Female,0.61,No,UBC
+Agriculture,14,32,9,3,1,0,0,Female,4.15,No,UBC
+Law,23,148,10,3,3,0,0,Male,0.5,No,UBC
+Ecology,12,44,11,3,1,0,0,Female,3.1,No,UBC
+Entrepreneurship,9,117,6,3,1,0,0,Male,1.57,No,UBC
+Sports,4,20,2,2,1,0,0,Male,2.29,No,UBC
+Statistics,9,4,2,2,2,0,0,Female,4.03,No,UBC
+Theatre,17,35,4,2,2,0,0,Male,0.87,No,UBC
+Banking,8,53,3,2,1,0,0,Female,3.72,Yes,UBC
+Chemical engineering,12,56,8,2,0,0,0,Male,1.02,No,UBC
+Electrical engineering,6,20,3,2,2,0,0,Male,3.6,No,UBC
+Public relations,4,6,1,1,1,0,0,Female,1.13,No,UBC
+Social Work,6,22,4,1,1,0,0,Male,3.44,No,UBC
+Systems and Computing Engineering,14,40,2,1,0,0,0,Female,4.13,Yes,UBC
+Archeology,13,198,3,1,0,0,0,Female,0.7,Yes,UBC
+Architecture,5,31,5,1,1,0,0,Male,0.36,Yes,UBC
+Civil engineering,15,100,1,1,1,0,0,Male,3.15,No,UBC
+Computer engineering,12,21,4,1,1,0,0,Female,0.11,No,UBC
+Graphic design,9,116,5,1,1,0,0,Male,2.12,Yes,UBC
+Religion,7,118,5,1,1,0,0,Male,4.01,No,UBC
+Software development and programming,11,16,2,1,1,0,0,Male,2.1,No,UBC
+Anthropology,11,43,1,0,1,0,0,Female,3.29,No,UBC
+International Trade,8,21,7,0,0,0,0,Male,4.17,No,UBC
+Logistics,8,20,3,0,0,0,0,Female,3.92,No,UBC
+Music,9,15,1,0,0,0,0,Male,2.05,No,UBC
+Environmental engineering,4,13,0,0,0,0,0,Male,1.67,No,UBC
+Medicine,3,10,0,0,0,0,0,Male,0.45,No,UBC
+Tourism & hotel management,3,5,0,0,0,0,0,Female,0.86,Yes,UBC
+Design,5,4,1,0,0,0,0,Male,0.21,No,UBC
+Telecommunication Engineering,1,2,0,0,0,0,0,Male,2.13,Yes,UBC
+Electronics engineering,2,2,0,0,0,0,0,Female,2.05,No,UBC
+Bioengineering,1,0,0,0,0,0,0,Male,1.94,Yes,UBC
+Aerospace engineering,1,0,0,0,0,0,0,Male,3.9,Yes,UBC
+Material engineering,1,0,0,0,0,0,0,Male,3.58,Yes,UBC
+Automotive engineering,1,0,0,0,0,0,0,Male,2.88,No,UBC
+Sustainability,1,0,0,0,0,0,0,Female,0.76,No,UBC
+Industrial engineering,1,0,0,0,0,0,0,Male,1.03,No,UBC
+Business administration,292,916,114,79,72,0,1,Male,2.11,No,SFU Surrey
+Marketing,74,377,38,28,28,0,0,Female,0.59,No,SFU Vancouver
+Communication & journalism,69,251,36,22,21,0,0,Male,1.85,Yes,SFU Surrey
+Arts,47,147,32,17,16,0,0,Male,0.97,Yes,SFU Burnaby
+Economics,65,317,26,16,14,0,1,Female,0.22,No,SFU Burnaby
+Psychology,70,314,33,16,14,0,0,Male,2.88,Yes,SFU Vancouver
+Mathematics,45,162,24,14,12,0,0,Female,2.07,Yes,SFU Burnaby
+Computer sciences,51,176,17,12,11,0,0,Female,3.16,No,SFU Burnaby
+Biology,43,102,21,11,9,1,0,Male,1.61,No,SFU Burnaby
+Education,42,173,20,10,9,0,1,Female,2.29,Yes,SFU Burnaby
+International relations,47,126,24,9,9,0,0,Female,1.27,Yes,SFU Surrey
+Law,19,66,11,9,8,0,1,Female,3.25,No,SFU Burnaby
+Literature,14,90,14,9,8,0,0,Female,0.94,No,SFU Surrey
+Other,56,150,22,9,9,0,0,Female,2.54,No,SFU Burnaby
+Accounting,51,122,14,7,7,0,0,Male,1.39,Yes,SFU Burnaby
+Chemistry,25,70,11,7,5,0,0,Female,2.07,No,SFU Burnaby
+Sociology,22,112,13,7,7,0,0,Female,0.59,No,SFU Burnaby
+Geography,19,58,10,6,6,0,1,Male,0.55,No,SFU Vancouver
+Linguistics,15,101,10,6,6,0,0,Male,0.63,No,SFU Burnaby
+Medicine,6,56,9,6,6,0,0,Female,0.44,Yes,SFU Vancouver
+Human Resources,12,73,6,6,5,0,1,Male,0.92,Yes,SFU Surrey
+Graphic design,15,80,7,5,4,0,0,Male,1.96,No,SFU Burnaby
+Philosophy,17,63,12,5,5,0,0,Female,3.33,No,SFU Burnaby
+Physics,17,36,7,5,5,0,0,Male,1.43,No,SFU Vancouver
+Political science,32,128,18,5,5,0,1,Female,2.52,Yes,SFU Vancouver
+Software development and programming,15,62,5,4,2,0,0,Male,1.98,No,SFU Surrey
+Tourism & hotel management,3,44,5,4,4,0,0,Male,0.69,No,SFU Surrey
+Health Science,26,56,12,4,4,0,0,Male,1.15,No,SFU Burnaby
+Languages,24,59,7,4,4,0,0,Female,3.94,No,SFU Burnaby
+Finance,30,136,7,3,3,0,0,Female,0.6,No,SFU Vancouver
+Computer engineering,12,36,2,2,2,0,1,Female,1.25,Yes,SFU Burnaby
+Agriculture,2,25,5,1,1,0,0,Male,2.92,Yes,SFU Burnaby
+Archeology,4,14,2,1,1,0,0,Female,4.31,Yes,SFU Surrey
+Architecture,2,12,1,1,1,0,0,Female,1.36,Yes,SFU Burnaby
+Electronics engineering,6,16,1,1,1,0,0,Female,2.35,No,SFU Vancouver
+Public administration,2,2,1,1,1,0,0,Female,1.06,Yes,SFU Burnaby
+Public relations,6,48,6,1,1,0,0,Female,1.46,No,SFU Surrey
+Religion,1,24,5,1,1,0,0,Female,1.73,No,SFU Vancouver
+Biomedical Science,10,7,3,1,1,0,1,Female,1.58,Yes,SFU Surrey
+Earth Sciences,1,10,5,1,1,0,0,Male,0.5,Yes,SFU Vancouver
+Entrepreneurship,5,4,1,1,1,0,0,Female,1.38,No,SFU Vancouver
+History,11,43,2,1,1,0,0,Female,4.13,Yes,SFU Surrey
+Media Arts,12,41,2,1,1,0,0,Female,4.16,Yes,SFU Vancouver
+Social Work,1,3,1,1,1,0,0,Female,2.99,No,SFU Surrey
+Statistics,4,41,1,1,0,0,0,Male,1.84,No,SFU Burnaby
+Design,12,43,1,0,0,0,0,Male,0.12,Yes,SFU Vancouver
+Mechanical engineering,10,37,0,0,0,0,0,Male,1.87,Yes,SFU Vancouver
+Systems and Computing Engineering,5,28,0,0,0,0,0,Male,1.53,No,SFU Burnaby
+Electrical engineering,8,27,0,0,0,0,0,Female,4.21,No,SFU Vancouver
+Aerospace engineering,3,22,0,0,0,0,0,Female,1.39,No,SFU Vancouver
+Industrial engineering,1,22,0,0,0,0,0,Male,2.6,No,SFU Surrey
+Material engineering,1,22,0,0,0,0,0,Male,2.1,No,SFU Surrey
+Bioengineering,1,22,0,0,0,0,0,Female,3.48,Yes,SFU Burnaby
+Sports,4,10,0,0,0,0,0,Male,3.31,Yes,SFU Vancouver
+Ecology,2,8,0,0,0,0,0,Male,0.42,No,SFU Vancouver
+Chemical engineering,1,7,0,0,0,0,0,Female,1.18,No,SFU Burnaby
+Logistics,1,4,0,0,0,0,0,Female,3.59,No,SFU Burnaby
+Theatre,2,4,0,0,0,0,0,Female,3.28,No,SFU Burnaby
+Banking,5,3,0,0,0,0,0,Male,3.38,Yes,SFU Vancouver
+International Trade,2,2,0,0,0,0,0,Male,3.77,Yes,SFU Burnaby
+Environmental engineering,1,1,0,0,0,0,0,Male,1.54,No,SFU Burnaby
+Anthropology,1,1,0,0,0,0,0,Male,3.64,No,SFU Vancouver
+Audit,1,0,0,0,0,0,0,Male,0.29,No,SFU Vancouver

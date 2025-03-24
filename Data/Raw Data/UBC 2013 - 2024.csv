@@ -1,0 +1,67 @@
+Backgrounds,Signed up,Applied,Accepted,Approved,Realized,Finished,Completed,Gender,GPA,Funding
+Economics,183,997,119,51,42,0,1,Female,3.75,No
+Business administration,225,1228,119,48,35,0,1,Female,3.76,No
+Arts,156,530,99,46,37,0,2,Female,1.31,No
+Psychology,148,621,82,4,33,0,2,Male,0.39,No
+Biology,106,307,61,31,27,0,1,Male,3.8,Yes
+Mathematics,100,635,66,26,21,0,0,Female,3.11,No
+Sociology,65,302,52,25,22,0,3,Male,0.4,No
+Accounting,93,556,59,23,18,0,0,Male,3.87,No
+Other,93,301,47,22,21,0,2,Female,3.36,Yes
+Marketing,132,781,67,21,18,0,0,Male,1.08,Yes
+Finance,83,520,48,19,13,0,2,Female,1.25,No
+Political science,72,276,48,17,16,0,1,Male,1.8,No
+Chemistry,88,260,37,17,13,0,0,Male,1.17,Yes
+International relations,48,183,45,13,9,0,0,Male,2.53,No
+Literature,48,124,24,13,11,0,0,Male,1.02,No
+Physics,53,175,34,13,9,0,2,Male,3.39,No
+Languages,79,453,42,11,8,0,0,Female,0.35,No
+Computer sciences,45,133,18,10,9,0,0,Female,2.64,Yes
+Geography,26,164,16,10,10,0,2,Male,4.3,No
+Linguistics,25,119,23,10,8,0,1,Female,1.09,No
+Philosophy,63,231,33,9,8,0,1,Male,4.12,Yes
+Health Science,42,115,19,8,6,0,1,Female,2.05,No
+History,22,100,13,7,6,0,0,Female,0.71,No
+Education,28,287,15,7,5,0,0,Female,3.05,No
+Earth Sciences,21,141,8,6,4,0,0,Male,0.25,No
+Human Resources,29,54,16,6,3,0,1,Male,3.53,No
+Communication & journalism,19,43,15,6,6,0,1,Female,2.12,No
+Mechanical engineering,19,88,9,6,5,0,0,Female,3.4,No
+Biomedical Science,10,104,13,4,3,0,2,Female,1.72,No
+Media Arts,17,74,9,3,3,0,1,Female,0.61,No
+Agriculture,14,32,9,3,1,0,0,Female,4.15,No
+Law,23,148,10,3,3,0,0,Male,0.5,No
+Ecology,12,44,11,3,1,0,0,Female,3.1,No
+Entrepreneurship,9,117,6,3,1,0,0,Male,1.57,No
+Sports,4,20,2,2,1,0,0,Male,2.29,No
+Statistics,9,4,2,2,2,0,0,Female,4.03,No
+Theatre,17,35,4,2,2,0,0,Male,0.87,No
+Banking,8,53,3,2,1,0,0,Female,3.72,Yes
+Chemical engineering,12,56,8,2,0,0,0,Male,1.02,No
+Electrical engineering,6,20,3,2,2,0,0,Male,3.6,No
+Public relations,4,6,1,1,1,0,0,Female,1.13,No
+Social Work,6,22,4,1,1,0,0,Male,3.44,No
+Systems and Computing Engineering,14,40,2,1,0,0,0,Female,4.13,Yes
+Archeology,13,198,3,1,0,0,0,Female,0.7,Yes
+Architecture,5,31,5,1,1,0,0,Male,0.36,Yes
+Civil engineering,15,100,1,1,1,0,0,Male,3.15,No
+Computer engineering,12,21,4,1,1,0,0,Female,0.11,No
+Graphic design,9,116,5,1,1,0,0,Male,2.12,Yes
+Religion,7,118,5,1,1,0,0,Male,4.01,No
+Software development and programming,11,16,2,1,1,0,0,Male,2.1,No
+Anthropology,11,43,1,0,1,0,0,Female,3.29,No
+International Trade,8,21,7,0,0,0,0,Male,4.17,No
+Logistics,8,20,3,0,0,0,0,Female,3.92,No
+Music,9,15,1,0,0,0,0,Male,2.05,No
+Environmental engineering,4,13,0,0,0,0,0,Male,1.67,No
+Medicine,3,10,0,0,0,0,0,Male,0.45,No
+Tourism & hotel management,3,5,0,0,0,0,0,Female,0.86,Yes
+Design,5,4,1,0,0,0,0,Male,0.21,No
+Telecommunication Engineering,1,2,0,0,0,0,0,Male,2.13,Yes
+Electronics engineering,2,2,0,0,0,0,0,Female,2.05,No
+Bioengineering,1,0,0,0,0,0,0,Male,1.94,Yes
+Aerospace engineering,1,0,0,0,0,0,0,Male,3.9,Yes
+Material engineering,1,0,0,0,0,0,0,Male,3.58,Yes
+Automotive engineering,1,0,0,0,0,0,0,Male,2.88,No
+Sustainability,1,0,0,0,0,0,0,Female,0.76,No
+Industrial engineering,1,0,0,0,0,0,0,Male,1.03,No
